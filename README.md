@@ -1,2 +1,2 @@
 # StreamAPIJava
-## program pokazuje wykorzystanie Stream API oraz wielowątkowości w Javie
+program pokazuje wykorzystanie Stream API oraz wielowątkowości w Javie
